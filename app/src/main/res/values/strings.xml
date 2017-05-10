@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Registro de Autos</string>
+    <string name="registrar">Registrar</string>
+    <string name="listar">Listar</string>
+    <string name="reportar">Informes</string>
+    <string name="placa">Placa</string>
+    <string name="marca">Marca</string>
+    <string name="modelo">Modelo</string>
+    <string name="color">Color</string>
+    <string name="precio">Precio</string>
+    <string name="audi">Audi</string>
+    <string name="bmw">Bmw</string>
+    <string name="buggati">Buggati</string>
+    <string name="ferrari">Ferrari</string>
+    <string name="nissan">Nissan</string>
+    <string name="amarillo">Amarillo</string>
+    <string name="rojo">Rojo</string>
+    <string name="azul">Azul</string>
+    <string name="msjTitulo">Notificación</string>
+    <string name="msjCuerpo">Carro guardado correctamente</string>
+    <string name="msjError1Cuerpo">Los 3 primeros caracteres de la placa deben ser letras</string>
+    <string name="msjError2Cuerpo">Los 3 últimos caracteres de la placa deben ser números</string>
+    <string name="msjError3Cuerpo">El campo placa no puede estar vacío</string>
+    <string name="msjError4Cuerpo">El campo placa debe contener 6 caracteres</string>
+    <string name="tituloInformes">INFORMES</string>
+    <string name="informe_1">No. de Carros registrados</string>
+    <string name="informe_2">No. de Carros registrados por marca</string>
+    <string name="informe_3">No. de Carros registrados por color</string>
+    <string name="informe_4">Lista de Carros registrados modelos 2010 - 2015</string>
+    <string name="informe_5">Datos del carro más costoso</string>
+    <string name="informe_6">Datos del carro más económico</string>
+    <string name="btnRegistrar">Registrar</string>
+    <string name="btnLimpiar">Limpiar</string>
+    <string name="informe1">La cantidad de carros registrados es: </string>
+    <string name="informe2_1">Carros registrados Audi: </string>
+    <string name="informe2_2">Carros registrados BMW: </string>
+    <string name="informe2_3">Carros registrados Ferrari: </string>
+    <string name="informe2_4">Carros registrados Nissan: </string>
+    <string name="informe2_5">Carros registrados Buggati: </string>
+    <string name="informe3">CARROS REGISTRADOS POR COLOR</string>
+    <string name="informe3_1">Carros registrados de color amarillo:</string>
+    <string name="informe3_2">Carros registrados de color rojo:</string>
+    <string name="informe3_3">Carros registrados de color azul:</string>
+    <string name="tituloOpciones">OPCIONES</string>
+    <string-array name="lstOpciones">
+        <item>@string/registrar</item>
+        <item>@string/listar</item>
+        <item>@string/reportar</item>
+    </string-array>
+    <string-array name="Informes_array">
+        <item>@string/informe_1</item>
+        <item>@string/informe_2</item>
+        <item>@string/informe_3</item>
+        <item>@string/informe_4</item>
+        <item>@string/informe_5</item>
+        <item>@string/informe_6</item>
+    </string-array>
+    <string-array name="modelo_spinner">
+        <item>2015</item>
+        <item>2014</item>
+        <item>2013</item>
+        <item>2012</item>
+        <item>2011</item>
+        <item>2010</item>
+        <item>2009</item>
+        <item>2008</item>
+        <item>2007</item>
+        <item>2006</item>
+        <item>2005</item>
+        <item>2004</item>
+    </string-array>
+    <string-array name="color_spinner">
+        <item>@string/amarillo</item>
+        <item>@string/rojo</item>
+        <item>@string/azul</item>
+    </string-array>
+    <string-array name="marca_spinner">
+        <item>@string/audi</item>
+        <item>@string/bmw</item>
+        <item>@string/buggati</item>
+        <item>@string/ferrari</item>
+        <item>@string/nissan</item>
+    </string-array>
+
+</resources>

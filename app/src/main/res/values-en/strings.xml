@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Register Of Cars</string>
+    <string name="amarillo">Yellow</string>
+    <string name="azul">Blue</string>
+    <string name="btnLimpiar">Clear</string>
+    <string name="btnRegistrar">Save</string>
+    <string name="informe_1">Registered cars number</string>
+    <string name="informe_2">Registered cars number by trademark</string>
+    <string name="informe_3">Registered cars number by color</string>
+    <string name="informe_4">List of registered cars from model 2010 - 2015</string>
+    <string name="informe_5">Details of the most expensive car</string>
+    <string name="informe_6">Details of cheaper car</string>
+    <string name="listar">List</string>
+    <string name="msjCuerpo">Car saved successfully</string>
+    <string name="msjTitulo">Notification</string>
+    <string name="registrar">Register</string>
+    <string name="reportar">Reports</string>
+    <string name="rojo">Red</string>
+    <string name="tituloInformes">REPORTS</string>
+    <string name="tituloOpciones">OPTIONS</string>
+    <string name="msjError1Cuerpo">The first 3 characters plate must be letters</string>
+    <string name="msjError2Cuerpo">The last 3 characters plate must be numbers</string>
+    <string name="msjError3Cuerpo">The plate must be filled</string>
+    <string name="msjError4Cuerpo">The length of plate characters must be 6</string>
+    <string name="audi">Audi</string>
+    <string name="bmw">Bmw</string>
+    <string name="buggati">Buggati</string>
+    <string name="color" translatable="false">Colour</string>
+    <string name="ferrari">Ferrari</string>
+    <string name="informe1">Number of Cars register is:</string>
+    <string name="informe2_2">Registered Cars Bmw :</string>
+    <string name="informe2_3">Registered Cars Ferrari:</string>
+    <string name="informe2_4">Registered Cars Nisssan:</string>
+    <string name="informe2_1">Registered Cars Audi:</string>
+    <string name="informe2_5">Registered Cars Buggati:</string>
+    <string name="informe3">Registered Cars By Colour</string>
+    <string name="informe3_2">Registered Cars Red:</string>
+    <string name="informe3_1">Registered Cars Yellow</string>
+    <string name="nissan">Nissan</string>
+    <string name="placa">License plate</string>
+    <string name="precio">Prices</string>
+    <string name="informe3_3">Registered Cars Blue:</string>
+    <string name="marca">Brand</string>
+    <string name="modelo">Model</string>
+</resources>
